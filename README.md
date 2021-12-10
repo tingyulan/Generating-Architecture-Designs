@@ -1,3 +1,20 @@
+# Generating Architecture Designs through Image Blending
+***Georgia Tech CS7643: Deep Learning Final Project***
+
+By ***Lan, Ting-Yu*** and ***Mou, Yingjun***
+(Equal contribution. The order is according to lastname.)
+
+The code has been modified to fit into our final project settings and goals. To run the code, directly upload the entire file to Google Drive and run `run.ipynb` with Colab. We also provide `run_tensorboard.ipynb` to monitor the training process on Colab.
+
+### Data
+Please download our dataset [here](https://drive.google.com/drive/folders/1actSFJJl2-Tm1geMz2SLygyGk4E3Sx8N?usp=sharing), and put it under `data/`
+
+### Reprodce
+[here](https://drive.google.com/drive/folders/1d1LBBiblolj0ixWkiHwv3Ih_ynBJGCsM?usp=sharing) is our pre-trained weights for reproducing our results. Please put it under `weights/`
+
+***
+***
+
 # Bridging the Visual Gap: Wide-Range Image Blending
 PyTorch implementaton of our CVPR 2021 paper "Bridging the Visual Gap: Wide-Range Image Blending".  
 You can visit our project website [here](https://julia0607.github.io/Wide-Range-Image-Blending/).
