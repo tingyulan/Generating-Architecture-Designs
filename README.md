@@ -4,7 +4,7 @@
 By ***Lan, Ting-Yu*** and ***Mou, Yingjun***
 (Alphabetized by last name)
 
-The code has been modified to fit into our final project settings and goals. To run the code, directly upload the entire file to Google Drive and run `run.ipynb` with Colab. We also provide `run_tensorboard.ipynb` to monitor the training process on Colab.
+The code has been modified from [here (julia0607)](https://github.com/julia0607/Wide-Range-Image-Blending) to fit into our final project settings and goals. To run the code, directly upload the entire file to Google Drive and run `run.ipynb` with Colab. We also provide `run_tensorboard.ipynb` to monitor the training process on Colab.
 
 ### Data
 Please download our dataset [here](https://drive.google.com/drive/folders/1actSFJJl2-Tm1geMz2SLygyGk4E3Sx8N?usp=sharing), and put it under `data/`
