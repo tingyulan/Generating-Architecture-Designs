@@ -2,7 +2,7 @@
 ***Georgia Tech CS7643: Deep Learning Final Project***
 
 By ***Lan, Ting-Yu*** and ***Mou, Yingjun***
-(Equal contribution. The order is according to lastname.)
+(Alphabetized by last name)
 
 The code has been modified to fit into our final project settings and goals. To run the code, directly upload the entire file to Google Drive and run `run.ipynb` with Colab. We also provide `run_tensorboard.ipynb` to monitor the training process on Colab.
 
